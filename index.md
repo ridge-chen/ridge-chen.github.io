@@ -9,3 +9,4 @@
 2. [Ceph PerfCounters](https://ridge-chen.github.io/ceph-perfcounters/) PerfCounters是ceph的一个公共模块，用来将ceph内部的一些统计数据输出。本文描述了其中的使用以及实现方式。
 3. [Nova compute程序架构](https://ridge-chen.github.io/nova-compute/) 最近由于工作需要，学习了nova-compute的代码。这里大致总结了下执行的流程，从进程执行开始，并以创建云主机为例来说明。
 4. [Python装饰器](https://ridge-chen.github.io/python-decorator/) 装饰器是python非常有用的一项功能，在实际工作中，我们经常可以看到它的身影。使用装饰器可以让代码变得非常漂亮。
+5. [Openstack集成部署Ceph](https://ridge-chen.github.io/openstack-ceph/) Openstack是开源云计算的领导者，而Ceph目前已经成为Openstack项目首选的存储后端,支持Openstack中镜像，系统卷，数据卷，对象存储等项目。这里简要说明如何在Openstack中部署Ceph。
